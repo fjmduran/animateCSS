@@ -1,4 +1,4 @@
-# animateCSS
+# animate.css
 
 Ejemplo básico de uso de la librería animate.css junto con Angular
 
